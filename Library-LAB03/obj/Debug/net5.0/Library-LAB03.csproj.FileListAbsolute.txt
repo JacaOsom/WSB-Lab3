@@ -1,0 +1,16 @@
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\bin\Debug\net5.0\Library-LAB03.exe
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\bin\Debug\net5.0\Library-LAB03.deps.json
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\bin\Debug\net5.0\Library-LAB03.runtimeconfig.json
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\bin\Debug\net5.0\Library-LAB03.runtimeconfig.dev.json
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\bin\Debug\net5.0\Library-LAB03.dll
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\bin\Debug\net5.0\ref\Library-LAB03.dll
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\bin\Debug\net5.0\Library-LAB03.pdb
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\obj\Debug\net5.0\Library-LAB03.csprojAssemblyReference.cache
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\obj\Debug\net5.0\Library-LAB03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\obj\Debug\net5.0\Library-LAB03.AssemblyInfoInputs.cache
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\obj\Debug\net5.0\Library-LAB03.AssemblyInfo.cs
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\obj\Debug\net5.0\Library-LAB03.csproj.CoreCompileInputs.cache
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\obj\Debug\net5.0\Library-LAB03.dll
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\obj\Debug\net5.0\ref\Library-LAB03.dll
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\obj\Debug\net5.0\Library-LAB03.pdb
+C:\Users\jacek\Desktop\WorkSpace\c#\Library-LAB03\Library-LAB03\obj\Debug\net5.0\Library-LAB03.genruntimeconfig.cache
